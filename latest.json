@@ -1,0 +1,11 @@
+{
+  "version": "2026.0.3",
+  "mandatory": false,
+  "url": "",
+  "sha256": "",
+  "notes": {
+    "ar": "أول إصدار من Simplix ERP",
+    "en": "First release of Simplix ERP",
+    "tr": "Simplix ERP'nin ilk sürümü"
+  }
+}
