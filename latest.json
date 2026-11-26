@@ -1,11 +1,11 @@
 {
-  "version": "2026.1.1",
+  "version": "2026.1.3",
   "mandatory": false,
-  "url": "https://github.com/emadkadoor/simplix-releases/releases/download/v2026.1.1/SimplixERP-Setup-2026.1.1.exe",
-  "sha256": "f241fa775c3c2a3b1ef14670a3313e1f280addd3dcf2f8fa8b4871a119e74aec",
+  "url": "https://github.com/emadkadoor/simplix-releases/releases/download/v2026.1.3/SimplixERP-Setup-2026.1.3.exe",
+  "sha256": "2a5d164e2f755ab4fa11c2815d81127a90ab477b748068de38b288e9a935aca4",
   "notes": {
-    "ar": "تطبيق الموارد البشرية بشكله الكامل الجديد: نفس التصميم والأيقونات والترتيب، بطاقة الموظف الكاملة، الجنسيات بالأعلام، «إضافة خيار جديد» في كل القوائم، و13 لغة.",
-    "en": "The HR app in its full new design: complete employee card, nationalities with flags, «add new option» in every list, and 13 languages.",
-    "tr": "İK uygulaması yeni tam tasarımıyla: eksiksiz çalışan kartı, bayraklı uyruklar, her listede «yeni seçenek ekle» ve 13 dil."
+    "ar": "مستخدمون وتسجيل دخول والمدير يتحكم بكل شيء، قفل تلقائي بعد 15 دقيقة، مفتاح استرجاع لكلمة المرور، نسخ احتياطي يومي تلقائي واسترجاع كامل، وتحديث بشاشة تقدم مثل الجوال.",
+    "en": "Users and sign-in with a full-control administrator, auto-lock after 15 minutes, password recovery keys, daily automatic backups with full restore, and a phone-style update screen.",
+    "tr": "Kullanıcılar ve giriş (tam yetkili yönetici), 15 dakika sonra otomatik kilit, şifre kurtarma anahtarı, günlük otomatik yedekleme ve tam geri yükleme, telefon tarzı güncelleme ekranı."
   }
 }
