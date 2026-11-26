@@ -1,11 +1,11 @@
 {
-  "version": "2026.1.0",
+  "version": "2026.1.1",
   "mandatory": false,
-  "url": "https://github.com/emadkadoor/simplix-releases/releases/download/v2026.1.0/SimplixERP-Setup-2026.1.0.exe",
-  "sha256": "35dc218b62b5f90265875376d48efb2a58814f6125c04bebc18ba03b346d9987",
+  "url": "https://github.com/emadkadoor/simplix-releases/releases/download/v2026.1.1/SimplixERP-Setup-2026.1.1.exe",
+  "sha256": "f241fa775c3c2a3b1ef14670a3313e1f280addd3dcf2f8fa8b4871a119e74aec",
   "notes": {
-    "ar": "الإصدار الرسمي الأول: تطبيق الموارد البشرية كاملاً (الموظفون، الرواتب، السلف والجزاءات، الإجازات، المخالصات، التقارير وتصدير Excel)، نظام التطبيقات، ومعلومات الشركة ونماذجها، وواجهة جديدة بالكامل.",
-    "en": "First official release: full HR app (employees, payroll, advances and fines, leaves, settlements, reports and Excel export), apps system, company info and forms, and a brand-new interface.",
-    "tr": "İlk resmi sürüm: tam İK uygulaması (çalışanlar, bordro, avanslar ve cezalar, izinler, hesap kapatma, raporlar ve Excel), uygulama sistemi, şirket bilgileri ve formları, tamamen yeni arayüz."
+    "ar": "تطبيق الموارد البشرية بشكله الكامل الجديد: نفس التصميم والأيقونات والترتيب، بطاقة الموظف الكاملة، الجنسيات بالأعلام، «إضافة خيار جديد» في كل القوائم، و13 لغة.",
+    "en": "The HR app in its full new design: complete employee card, nationalities with flags, «add new option» in every list, and 13 languages.",
+    "tr": "İK uygulaması yeni tam tasarımıyla: eksiksiz çalışan kartı, bayraklı uyruklar, her listede «yeni seçenek ekle» ve 13 dil."
   }
 }
