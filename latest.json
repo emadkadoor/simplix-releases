@@ -1,11 +1,11 @@
 {
-  "version": "2026.1.10",
+  "version": "2026.1.11",
   "mandatory": false,
-  "url": "https://github.com/emadkadoor/simplix-releases/releases/download/v2026.1.10/SimplixERP-Setup-2026.1.10.exe",
-  "sha256": "ae89341fd981444d40b30a912a02fc66ac7e13b6589914bf1b6c4ba3d50006d3",
+  "url": "https://github.com/emadkadoor/simplix-releases/releases/download/v2026.1.11/SimplixERP-Setup-2026.1.11.exe",
+  "sha256": "4fcf3fdc77ecfebf9b3ee6a60aba062764e6dd8814130e5c8f0d39db7ca2794f",
   "notes": {
-    "ar": "الربط مع هيئة الزكاة (المرحلة الثانية): تسجيل برمز OTP، وفحوص الامتثال، وتوقيع كل فاتورة وإشعار دائن وإرساله تلقائياً (اعتماد للضريبية وتبليغ للمبسطة) مع QR المرحلة الثانية. كشوف حساب العملاء والموردين بصلاحيات مستقلة مع أعمار الديون، وقوائم كل العملاء والموردين، وبطاقة عميل ومورد كاملة بالعنوان الوطني. طباعة رسمية ملونة بخط رسمي والمبلغ كتابةً. القائمة مرتبة حسب الاستخدام اليومي وتتبع صلاحيات المستخدم، والتطبيقات تظهر لكل مستخدم حسب صلاحيته، وزر الرجوع للتطبيقات.",
-    "en": "ZATCA phase 2: OTP onboarding, compliance checks, every invoice and credit note signed and sent automatically (clearance / reporting) with the phase-2 QR. Customer and supplier statements with their own permissions and aging, all-customers / all-suppliers lists, a full customer & supplier card with national address. Formal coloured prints with amount in words. Menu ordered by daily use and permissions; apps shown per user.",
-    "tr": "ZATCA 2. aşama e-fatura entegrasyonu, müşteri/tedarikçi ekstreleri, tam cari kartı, resmi renkli çıktılar ve kullanıcıya göre menü."
+    "ar": "القوائم المالية الست (المركز المالي، الدخل، الدخل الشامل، التغيرات في حقوق الملكية، التدفقات النقدية، الإيضاحات) مع المقارنات وطباعة الكتاب الكامل · ميزان مراجعة بتصميم جديد · الضريبة الافتراضية وعمود الضريبة في القيد مع تنبيه قبل الترحيل والتنقل بالأسهم · موافقات أوامر الشراء وآخر سعر شراء · إضافة منتج من سطر الفاتورة · السنة المالية بتاريخ بداية ونهاية · ترتيب العنوان الوطني · فتح المالية أسرع",
+    "en": "Six financial statements with comparisons and a printable book · redesigned trial balance · default taxes, tax column in journal entries with a pre-posting warning, arrow-key navigation · purchase order approvals and last purchase price · add a product from an invoice line · fiscal year by start/end dates · national address order · faster accounting start",
+    "tr": "Karşılaştırmalı altı mali tablo ve yazdırılabilir kitap · yeni mizan tasarımı · varsayılan vergiler, yevmiye kaydında vergi sütunu ve ok tuşlarıyla gezinme · satın alma onayları ve son alış fiyatı · faturadan ürün ekleme · başlangıç/bitiş tarihli mali yıl · daha hızlı açılış"
   }
 }
