@@ -1,11 +1,11 @@
 {
-  "version": "2026.1.4",
+  "version": "2026.1.5",
   "mandatory": false,
-  "url": "https://github.com/emadkadoor/simplix-releases/releases/download/v2026.1.4/SimplixERP-Setup-2026.1.4.exe",
-  "sha256": "81d718a9756313cbb2808499ca69702ed4ccdd307b62c573e2693f9c3d8692f7",
+  "url": "https://github.com/emadkadoor/simplix-releases/releases/download/v2026.1.5/SimplixERP-Setup-2026.1.5.exe",
+  "sha256": "8977565cb665f9e1a9a08c3c3fdad3e28861918f3cfd562cce8a0bc364ab509a",
   "notes": {
-    "ar": "الدخول بكلمة المرور فقط، التاريخ الهجري تحت الميلادي، أعلام الجنسيات، إشعار التحديث أثناء العمل، زر الخروج في الزاوية، مدير احتياطي ورمز دعم عند ضياع كلمة المرور.",
-    "en": "Sign in with just your password, Hijri date under the Gregorian date, nationality flags, update notice while working, sign-out in the corner, backup administrator and support code for lost passwords.",
-    "tr": "Sadece şifreyle giriş, miladi tarihin altında hicri tarih, uyruk bayrakları, çalışırken güncelleme bildirimi, köşede çıkış düğmesi, yedek yönetici ve kayıp şifre için destek kodu."
+    "ar": "التحديث يتنزّل بالخلفية وتكمل شغلك (تصغير)، ثم يسألك: تثبيت الآن أو لاحقاً. تحديث أقوى مع إعادة المحاولة ورابط بديل، التاريخ الهجري، اسم الجنسية كاملاً في البحث، و Excel وPDF لتقرير المصروف والمتبقي.",
+    "en": "Updates download in the background while you keep working, then ask: install now or later. Stronger updater with retries and a mirror, Hijri date, full nationality search label, Excel and PDF for the paid/remaining report.",
+    "tr": "Güncellemeler arka planda iner, siz çalışmaya devam edersiniz; ardından şimdi mi sonra mı kurulacağını sorar. Yeniden denemeli ve yedek bağlantılı güncelleyici, hicri tarih, uyruk aramasında tam etiket, ödenen/kalan raporu için Excel ve PDF."
   }
 }
