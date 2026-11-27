@@ -1,11 +1,11 @@
 {
-  "version": "2026.1.5",
+  "version": "2026.1.6",
   "mandatory": false,
-  "url": "https://github.com/emadkadoor/simplix-releases/releases/download/v2026.1.5/SimplixERP-Setup-2026.1.5.exe",
-  "sha256": "8977565cb665f9e1a9a08c3c3fdad3e28861918f3cfd562cce8a0bc364ab509a",
+  "url": "https://github.com/emadkadoor/simplix-releases/releases/download/v2026.1.6/SimplixERP-Setup-2026.1.6.exe",
+  "sha256": "458360e1cdfca596f984e4b7cefca6576a64be46877ee965a8bd643b258101a7",
   "notes": {
-    "ar": "التحديث يتنزّل بالخلفية وتكمل شغلك (تصغير)، ثم يسألك: تثبيت الآن أو لاحقاً. تحديث أقوى مع إعادة المحاولة ورابط بديل، التاريخ الهجري، اسم الجنسية كاملاً في البحث، و Excel وPDF لتقرير المصروف والمتبقي.",
-    "en": "Updates download in the background while you keep working, then ask: install now or later. Stronger updater with retries and a mirror, Hijri date, full nationality search label, Excel and PDF for the paid/remaining report.",
-    "tr": "Güncellemeler arka planda iner, siz çalışmaya devam edersiniz; ardından şimdi mi sonra mı kurulacağını sorar. Yeniden denemeli ve yedek bağlantılı güncelleyici, hicri tarih, uyruk aramasında tam etiket, ödenen/kalan raporu için Excel ve PDF."
+    "ar": "عند تصغير التحديث تصبح أيقونته في شريط العنوان جنب «قفل» مع نسبة التنزيل، وتنبض باللون الأخضر عندما يصبح جاهزاً للتثبيت.",
+    "en": "When minimized, the update becomes a small icon in the header next to «Lock» showing the download percentage, pulsing green when ready to install.",
+    "tr": "Küçültüldüğünde güncelleme, başlıkta «Kilit» yanında indirme yüzdesini gösteren küçük bir simgeye dönüşür; kuruluma hazır olduğunda yeşil yanıp söner."
   }
 }
