@@ -1,11 +1,11 @@
 {
-  "version": "2026.1.8",
+  "version": "2026.1.9",
   "mandatory": false,
-  "url": "https://github.com/emadkadoor/simplix-releases/releases/download/v2026.1.8/SimplixERP-Setup-2026.1.8.exe",
-  "sha256": "f56602772127eba8bd6198336aed565a81161d583bde5d724ef1ac6c70c896d7",
+  "url": "https://github.com/emadkadoor/simplix-releases/releases/download/v2026.1.9/SimplixERP-Setup-2026.1.9.exe",
+  "sha256": "7ee176b511f28abfa0da3da168fc86f5acbe0e54f14a37f22854a2c013465709",
   "notes": {
-    "ar": "شاشة التطبيقات عند فتح البرنامج (مثل أودو). المحاسبة: كشف حساب بفلاتر (الحساب، الجهة، المشروع، مدير المشروع، الإدارة، القسم) عبر السنوات مع رصيد أول المدة والرصيد التراكمي والانتقال للقيد والرجوع، ميزان مراجعة بالمستويات، بوابة ترحيل موحدة للتطبيقات مع قائمة «بانتظار الترحيل»، إعداد شركة غني (العنوان الوطني، التواصل، نسبة الضريبة، الخانات العشرية 0–5)، دليل حسابات عصري مع إضافة وتعديل بجانب الحساب، وصف القيد إلزامي وبيان السطر يظهر في الكشف بلا حد للأحرف، وزر طباعة مع معاينة بجانب كل PDF.",
-    "en": "Apps home screen. Accounting: account statement with filters across years, drill-down and back, trial balance by levels, a single posting gateway with a «waiting to post» list, rich company setup (national address, contacts, VAT rate, 0–5 decimals), modern chart of accounts with inline add/edit, mandatory entry description, unlimited line descriptions shown in statements, and a print button with preview beside every PDF.",
-    "tr": "Uygulamalar ana ekranı. Muhasebe: yıllar boyu filtreli hesap ekstresi, seviyeli mizan, tek kayıt geçidi, zengin şirket kurulumu, modern hesap planı, zorunlu fiş açıklaması ve önizlemeli yazdırma."
+    "ar": "المحاسبة: فواتير المبيعات والموردين والإشعارات الدائنة مع الفاتورة الضريبية ورمز QR، سندات القبض والصرف مع تخصيصها على الفواتير، مطابقة البنوك (استيراد كشف Excel/CSV، مطابقة تلقائية، تسجيل الرسوم من الكشف، إقفال الكشف، تقرير المطابقة)، تعديل القيد المرحّل مباشرة لمستوى الإدارة مع تنبيه السنة السابقة والفترة الضريبية المنتهية، دورية الإقرار الضريبي (شهري، ربع سنوي، معفى، أو فترة مخصصة)، اختيار لغة عام من الشاشة الرئيسية، وأداة استيراد من أودو.",
+    "en": "Accounting: sales and supplier invoices, credit notes with a tax invoice and QR, receipts and payments allocated to invoices, bank reconciliation (statement import, auto matching, book fees from the statement, closing, reconciliation report), management can edit a posted entry in place with warnings for earlier years and ended VAT periods, VAT return period (monthly, quarterly, exempt or custom), one language choice on the home screen, and an Odoo import tool.",
+    "tr": "Muhasebe: satış ve alış faturaları, QR'lı vergi faturası, tahsilat ve ödemeler, banka mutabakatı, yönetim için kayıtlı fişi düzenleme, KDV beyan dönemi ve Odoo içe aktarma aracı."
   }
 }
