@@ -1,11 +1,11 @@
 {
-  "version": "2026.1.3",
+  "version": "2026.1.4",
   "mandatory": false,
-  "url": "https://github.com/emadkadoor/simplix-releases/releases/download/v2026.1.3/SimplixERP-Setup-2026.1.3.exe",
-  "sha256": "2a5d164e2f755ab4fa11c2815d81127a90ab477b748068de38b288e9a935aca4",
+  "url": "https://github.com/emadkadoor/simplix-releases/releases/download/v2026.1.4/SimplixERP-Setup-2026.1.4.exe",
+  "sha256": "81d718a9756313cbb2808499ca69702ed4ccdd307b62c573e2693f9c3d8692f7",
   "notes": {
-    "ar": "مستخدمون وتسجيل دخول والمدير يتحكم بكل شيء، قفل تلقائي بعد 15 دقيقة، مفتاح استرجاع لكلمة المرور، نسخ احتياطي يومي تلقائي واسترجاع كامل، وتحديث بشاشة تقدم مثل الجوال.",
-    "en": "Users and sign-in with a full-control administrator, auto-lock after 15 minutes, password recovery keys, daily automatic backups with full restore, and a phone-style update screen.",
-    "tr": "Kullanıcılar ve giriş (tam yetkili yönetici), 15 dakika sonra otomatik kilit, şifre kurtarma anahtarı, günlük otomatik yedekleme ve tam geri yükleme, telefon tarzı güncelleme ekranı."
+    "ar": "الدخول بكلمة المرور فقط، التاريخ الهجري تحت الميلادي، أعلام الجنسيات، إشعار التحديث أثناء العمل، زر الخروج في الزاوية، مدير احتياطي ورمز دعم عند ضياع كلمة المرور.",
+    "en": "Sign in with just your password, Hijri date under the Gregorian date, nationality flags, update notice while working, sign-out in the corner, backup administrator and support code for lost passwords.",
+    "tr": "Sadece şifreyle giriş, miladi tarihin altında hicri tarih, uyruk bayrakları, çalışırken güncelleme bildirimi, köşede çıkış düğmesi, yedek yönetici ve kayıp şifre için destek kodu."
   }
 }
