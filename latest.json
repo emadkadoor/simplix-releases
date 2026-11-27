@@ -1,11 +1,11 @@
 {
-  "version": "2026.1.7",
+  "version": "2026.1.8",
   "mandatory": false,
-  "url": "https://github.com/emadkadoor/simplix-releases/releases/download/v2026.1.7/SimplixERP-Setup-2026.1.7.exe",
-  "sha256": "336240ab54a6058694e5681beb51cd4139d87e018b175a6019613e1e5099592b",
+  "url": "https://github.com/emadkadoor/simplix-releases/releases/download/v2026.1.8/SimplixERP-Setup-2026.1.8.exe",
+  "sha256": "f56602772127eba8bd6198336aed565a81161d583bde5d724ef1ac6c70c896d7",
   "notes": {
-    "ar": "تطبيق المحاسبة المالية — المرحلة الأولى: إعداد الشركة والعملة والسنة المالية، دليل حسابات قياسي بالمستويات مع إضافة حساب فرعي بنقرة، قيد يومية مثل Excel مع تنبيهات تمنع الأخطاء، جهات التعامل والأصناف والمشاريع والإدارات، الإقفال والصلاحيات لكل شركة، ولوحة الأرصدة. وزر «التطبيقات» للتنقل بين التطبيقات.",
-    "en": "Financial Accounting app — phase 1: company, currency and fiscal year setup, standard multi-level chart of accounts with one-click sub-accounts, Excel-like journal entries with mistake-blocking checks, contacts, items, projects and departments, period locks, per-company permissions, and a balances dashboard. Plus an «Apps» switcher.",
-    "tr": "Finansal Muhasebe uygulaması — 1. aşama: şirket, para birimi ve mali yıl kurulumu, tek tıkla alt hesaplı çok seviyeli hesap planı, hataları engelleyen Excel benzeri yevmiye fişleri, cariler, ürünler, projeler ve departmanlar, dönem kilitleri, şirket bazlı yetkiler ve bakiye panosu."
+    "ar": "شاشة التطبيقات عند فتح البرنامج (مثل أودو). المحاسبة: كشف حساب بفلاتر (الحساب، الجهة، المشروع، مدير المشروع، الإدارة، القسم) عبر السنوات مع رصيد أول المدة والرصيد التراكمي والانتقال للقيد والرجوع، ميزان مراجعة بالمستويات، بوابة ترحيل موحدة للتطبيقات مع قائمة «بانتظار الترحيل»، إعداد شركة غني (العنوان الوطني، التواصل، نسبة الضريبة، الخانات العشرية 0–5)، دليل حسابات عصري مع إضافة وتعديل بجانب الحساب، وصف القيد إلزامي وبيان السطر يظهر في الكشف بلا حد للأحرف، وزر طباعة مع معاينة بجانب كل PDF.",
+    "en": "Apps home screen. Accounting: account statement with filters across years, drill-down and back, trial balance by levels, a single posting gateway with a «waiting to post» list, rich company setup (national address, contacts, VAT rate, 0–5 decimals), modern chart of accounts with inline add/edit, mandatory entry description, unlimited line descriptions shown in statements, and a print button with preview beside every PDF.",
+    "tr": "Uygulamalar ana ekranı. Muhasebe: yıllar boyu filtreli hesap ekstresi, seviyeli mizan, tek kayıt geçidi, zengin şirket kurulumu, modern hesap planı, zorunlu fiş açıklaması ve önizlemeli yazdırma."
   }
 }
