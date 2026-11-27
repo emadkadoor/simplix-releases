@@ -1,11 +1,11 @@
 {
-  "version": "2026.1.6",
+  "version": "2026.1.7",
   "mandatory": false,
-  "url": "https://github.com/emadkadoor/simplix-releases/releases/download/v2026.1.6/SimplixERP-Setup-2026.1.6.exe",
-  "sha256": "458360e1cdfca596f984e4b7cefca6576a64be46877ee965a8bd643b258101a7",
+  "url": "https://github.com/emadkadoor/simplix-releases/releases/download/v2026.1.7/SimplixERP-Setup-2026.1.7.exe",
+  "sha256": "336240ab54a6058694e5681beb51cd4139d87e018b175a6019613e1e5099592b",
   "notes": {
-    "ar": "عند تصغير التحديث تصبح أيقونته في شريط العنوان جنب «قفل» مع نسبة التنزيل، وتنبض باللون الأخضر عندما يصبح جاهزاً للتثبيت.",
-    "en": "When minimized, the update becomes a small icon in the header next to «Lock» showing the download percentage, pulsing green when ready to install.",
-    "tr": "Küçültüldüğünde güncelleme, başlıkta «Kilit» yanında indirme yüzdesini gösteren küçük bir simgeye dönüşür; kuruluma hazır olduğunda yeşil yanıp söner."
+    "ar": "تطبيق المحاسبة المالية — المرحلة الأولى: إعداد الشركة والعملة والسنة المالية، دليل حسابات قياسي بالمستويات مع إضافة حساب فرعي بنقرة، قيد يومية مثل Excel مع تنبيهات تمنع الأخطاء، جهات التعامل والأصناف والمشاريع والإدارات، الإقفال والصلاحيات لكل شركة، ولوحة الأرصدة. وزر «التطبيقات» للتنقل بين التطبيقات.",
+    "en": "Financial Accounting app — phase 1: company, currency and fiscal year setup, standard multi-level chart of accounts with one-click sub-accounts, Excel-like journal entries with mistake-blocking checks, contacts, items, projects and departments, period locks, per-company permissions, and a balances dashboard. Plus an «Apps» switcher.",
+    "tr": "Finansal Muhasebe uygulaması — 1. aşama: şirket, para birimi ve mali yıl kurulumu, tek tıkla alt hesaplı çok seviyeli hesap planı, hataları engelleyen Excel benzeri yevmiye fişleri, cariler, ürünler, projeler ve departmanlar, dönem kilitleri, şirket bazlı yetkiler ve bakiye panosu."
   }
 }
