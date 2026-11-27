@@ -1,11 +1,11 @@
 {
-  "version": "2026.1.11",
+  "version": "2026.1.12",
   "mandatory": false,
-  "url": "https://github.com/emadkadoor/simplix-releases/releases/download/v2026.1.11/SimplixERP-Setup-2026.1.11.exe",
-  "sha256": "4fcf3fdc77ecfebf9b3ee6a60aba062764e6dd8814130e5c8f0d39db7ca2794f",
+  "url": "https://github.com/emadkadoor/simplix-releases/releases/download/v2026.1.12/SimplixERP-Setup-2026.1.12.exe",
+  "sha256": "0dc3d8db62f0d1f27d527df85160573097485283084dfd0511494948b6e1cb0e",
   "notes": {
-    "ar": "القوائم المالية الست (المركز المالي، الدخل، الدخل الشامل، التغيرات في حقوق الملكية، التدفقات النقدية، الإيضاحات) مع المقارنات وطباعة الكتاب الكامل · ميزان مراجعة بتصميم جديد · الضريبة الافتراضية وعمود الضريبة في القيد مع تنبيه قبل الترحيل والتنقل بالأسهم · موافقات أوامر الشراء وآخر سعر شراء · إضافة منتج من سطر الفاتورة · السنة المالية بتاريخ بداية ونهاية · ترتيب العنوان الوطني · فتح المالية أسرع",
-    "en": "Six financial statements with comparisons and a printable book · redesigned trial balance · default taxes, tax column in journal entries with a pre-posting warning, arrow-key navigation · purchase order approvals and last purchase price · add a product from an invoice line · fiscal year by start/end dates · national address order · faster accounting start",
-    "tr": "Karşılaştırmalı altı mali tablo ve yazdırılabilir kitap · yeni mizan tasarımı · varsayılan vergiler, yevmiye kaydında vergi sütunu ve ok tuşlarıyla gezinme · satın alma onayları ve son alış fiyatı · faturadan ürün ekleme · başlangıç/bitiş tarihli mali yıl · daha hızlı açılış"
+    "ar": "زر «⧉ تكرار الصفحة»: نفس الشاشة في نافذة مستقلة تتنقل فيها كما تشاء — مثالي للمطابقات · كل نافذة تحفظ شاشتها وشركتها · تنبيه إذا كان المستند نفسه مفتوحاً للتعديل في نافذتين",
+    "en": "«Duplicate page»: the same screen in an independent window · each window keeps its own screen and company · warning when one document is edited in two windows",
+    "tr": "«Sayfayı çoğalt»: aynı ekran bağımsız bir pencerede · her pencere kendi ekranını ve şirketini korur · aynı belge iki pencerede düzenlenirken uyarı"
   }
 }
