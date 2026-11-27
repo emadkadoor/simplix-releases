@@ -1,11 +1,11 @@
 {
-  "version": "2026.1.9",
+  "version": "2026.1.10",
   "mandatory": false,
-  "url": "https://github.com/emadkadoor/simplix-releases/releases/download/v2026.1.9/SimplixERP-Setup-2026.1.9.exe",
-  "sha256": "7ee176b511f28abfa0da3da168fc86f5acbe0e54f14a37f22854a2c013465709",
+  "url": "https://github.com/emadkadoor/simplix-releases/releases/download/v2026.1.10/SimplixERP-Setup-2026.1.10.exe",
+  "sha256": "ae89341fd981444d40b30a912a02fc66ac7e13b6589914bf1b6c4ba3d50006d3",
   "notes": {
-    "ar": "المحاسبة: فواتير المبيعات والموردين والإشعارات الدائنة مع الفاتورة الضريبية ورمز QR، سندات القبض والصرف مع تخصيصها على الفواتير، مطابقة البنوك (استيراد كشف Excel/CSV، مطابقة تلقائية، تسجيل الرسوم من الكشف، إقفال الكشف، تقرير المطابقة)، تعديل القيد المرحّل مباشرة لمستوى الإدارة مع تنبيه السنة السابقة والفترة الضريبية المنتهية، دورية الإقرار الضريبي (شهري، ربع سنوي، معفى، أو فترة مخصصة)، اختيار لغة عام من الشاشة الرئيسية، وأداة استيراد من أودو.",
-    "en": "Accounting: sales and supplier invoices, credit notes with a tax invoice and QR, receipts and payments allocated to invoices, bank reconciliation (statement import, auto matching, book fees from the statement, closing, reconciliation report), management can edit a posted entry in place with warnings for earlier years and ended VAT periods, VAT return period (monthly, quarterly, exempt or custom), one language choice on the home screen, and an Odoo import tool.",
-    "tr": "Muhasebe: satış ve alış faturaları, QR'lı vergi faturası, tahsilat ve ödemeler, banka mutabakatı, yönetim için kayıtlı fişi düzenleme, KDV beyan dönemi ve Odoo içe aktarma aracı."
+    "ar": "الربط مع هيئة الزكاة (المرحلة الثانية): تسجيل برمز OTP، وفحوص الامتثال، وتوقيع كل فاتورة وإشعار دائن وإرساله تلقائياً (اعتماد للضريبية وتبليغ للمبسطة) مع QR المرحلة الثانية. كشوف حساب العملاء والموردين بصلاحيات مستقلة مع أعمار الديون، وقوائم كل العملاء والموردين، وبطاقة عميل ومورد كاملة بالعنوان الوطني. طباعة رسمية ملونة بخط رسمي والمبلغ كتابةً. القائمة مرتبة حسب الاستخدام اليومي وتتبع صلاحيات المستخدم، والتطبيقات تظهر لكل مستخدم حسب صلاحيته، وزر الرجوع للتطبيقات.",
+    "en": "ZATCA phase 2: OTP onboarding, compliance checks, every invoice and credit note signed and sent automatically (clearance / reporting) with the phase-2 QR. Customer and supplier statements with their own permissions and aging, all-customers / all-suppliers lists, a full customer & supplier card with national address. Formal coloured prints with amount in words. Menu ordered by daily use and permissions; apps shown per user.",
+    "tr": "ZATCA 2. aşama e-fatura entegrasyonu, müşteri/tedarikçi ekstreleri, tam cari kartı, resmi renkli çıktılar ve kullanıcıya göre menü."
   }
 }
