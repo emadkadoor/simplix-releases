@@ -1,11 +1,11 @@
 {
-  "version": "2026.1.13",
+  "version": "2026.1.14",
   "mandatory": false,
-  "url": "https://github.com/emadkadoor/simplix-releases/releases/download/v2026.1.13/SimplixERP-Setup-2026.1.13.exe",
-  "sha256": "ea92fb26998fb6fd8b9cec713317cc54d4f7056e228d715501b073cddccb7567",
+  "url": "https://github.com/emadkadoor/simplix-releases/releases/download/v2026.1.14/SimplixERP-Setup-2026.1.14.exe",
+  "sha256": "937d1b263bb4d0ada875e1fa17c1e12832c9b9e5001e94c7cd521882a9143dab",
   "notes": {
-    "ar": "🤖 المساعد الذكي (MCP): اربط Claude أو أي مساعد ذكي ببرنامجك بمفتاح شخصي يعمل بصلاحياتك فقط — يقرأ الأرصدة والكشوف وميزان المراجعة والقوائم المالية والفواتير، ويجهز قيوداً كمسودات فقط، وكل عملية في سجل التدقيق · صلاحيتان جديدتان للمساعد · خيار للمدير بمنع فتح البرنامج من متصفح عادي",
-    "en": "🤖 AI assistant gateway (MCP): personal keys bound to your permissions — read balances, statements, trial balance, financial statements and invoices; prepare draft entries only; every call audited · two new assistant permissions · admin switch to block opening from an ordinary browser",
-    "tr": "🤖 Yapay zekâ asistanı geçidi (MCP): yetkilerinize bağlı kişisel anahtarlar — okuma ve yalnızca taslak kayıt hazırlama; her işlem denetim kaydında · tarayıcıdan açmayı engelleme seçeneği"
+    "ar": "دور «مدير — عرض فقط» يطّلع ولا يعدّل · إخفاء أي تطبيق عن أي مستخدم · المساعد الذكي غير ظاهر لمن لا يملك صلاحيته · البرنامج جاهز للعمل سحابياً (من أي مكان) · تحسين العرض على الجوال",
+    "en": "View-only manager role · hide any app from any user · the assistant is invisible to users without its permission · cloud-ready · better phone layout",
+    "tr": "Yalnızca görüntüleme yöneticisi rolü · herhangi bir uygulamayı kullanıcıdan gizleme · bulut hazır · telefon düzeni"
   }
 }
