@@ -1,11 +1,11 @@
 {
-  "version": "2026.1.12",
+  "version": "2026.1.13",
   "mandatory": false,
-  "url": "https://github.com/emadkadoor/simplix-releases/releases/download/v2026.1.12/SimplixERP-Setup-2026.1.12.exe",
-  "sha256": "0dc3d8db62f0d1f27d527df85160573097485283084dfd0511494948b6e1cb0e",
+  "url": "https://github.com/emadkadoor/simplix-releases/releases/download/v2026.1.13/SimplixERP-Setup-2026.1.13.exe",
+  "sha256": "ea92fb26998fb6fd8b9cec713317cc54d4f7056e228d715501b073cddccb7567",
   "notes": {
-    "ar": "زر «⧉ تكرار الصفحة»: نفس الشاشة في نافذة مستقلة تتنقل فيها كما تشاء — مثالي للمطابقات · كل نافذة تحفظ شاشتها وشركتها · تنبيه إذا كان المستند نفسه مفتوحاً للتعديل في نافذتين",
-    "en": "«Duplicate page»: the same screen in an independent window · each window keeps its own screen and company · warning when one document is edited in two windows",
-    "tr": "«Sayfayı çoğalt»: aynı ekran bağımsız bir pencerede · her pencere kendi ekranını ve şirketini korur · aynı belge iki pencerede düzenlenirken uyarı"
+    "ar": "🤖 المساعد الذكي (MCP): اربط Claude أو أي مساعد ذكي ببرنامجك بمفتاح شخصي يعمل بصلاحياتك فقط — يقرأ الأرصدة والكشوف وميزان المراجعة والقوائم المالية والفواتير، ويجهز قيوداً كمسودات فقط، وكل عملية في سجل التدقيق · صلاحيتان جديدتان للمساعد · خيار للمدير بمنع فتح البرنامج من متصفح عادي",
+    "en": "🤖 AI assistant gateway (MCP): personal keys bound to your permissions — read balances, statements, trial balance, financial statements and invoices; prepare draft entries only; every call audited · two new assistant permissions · admin switch to block opening from an ordinary browser",
+    "tr": "🤖 Yapay zekâ asistanı geçidi (MCP): yetkilerinize bağlı kişisel anahtarlar — okuma ve yalnızca taslak kayıt hazırlama; her işlem denetim kaydında · tarayıcıdan açmayı engelleme seçeneği"
   }
 }
