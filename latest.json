@@ -1,11 +1,11 @@
 {
-  "version": "2026.1.24",
+  "version": "2026.1.25",
   "mandatory": false,
-  "url": "https://github.com/emadkadoor/simplix-releases/releases/download/v2026.1.24/SimplixERP-Setup-2026.1.24.exe",
-  "sha256": "3f6aee05e2c1fe28350118b7e036ac4b9d660215f8975d3512e3d03889a2ca5b",
+  "url": "https://github.com/emadkadoor/simplix-releases/releases/download/v2026.1.25/SimplixERP-Setup-2026.1.25.exe",
+  "sha256": "82aae72e90e99a3474be05dbb4c827f2edfd392afbe37b02327653095609322a",
   "notes": {
-    "ar": "• تطبيق جديد «💵 الصندوق»: صندوق نظامي مربوط بالمحاسبة — سند قبض، سند صرف، تغذية من البنك، إيداع في البنك، عهد مع التسوية والرد، جرد الصندوق بقيد العجز أو الزيادة، كشف حساب الصندوق من دفتر الأستاذ، تحليل المصروفات، وصلاحية «أمين الصندوق»\n• البرنامج يتلاءم مع كل الشاشات: كمبيوتر، لابتوب، تابلت\n• الشاشات تفتح دفعة واحدة كاملة بدل ظهور العناصر تباعاً",
-    "en": "• New app «Cash Box»: an official cash box linked to accounting — receipts, payments, bank funding and deposits, custody with settlement and return, cash count, box statement from the ledger, analysis, cashier permission\n• Fits every screen: desktop, laptop, tablet\n• Screens open fully at once",
-    "tr": "• Yeni uygulama «Kasa»: muhasebeye bağlı resmi kasa — tahsilat, ödeme, bankadan besleme ve bankaya yatırma, avans mahsup ve iadesi, kasa sayımı, defterden kasa ekstresi, analiz, kasiyer yetkisi\n• Her ekrana uyum: masaüstü, dizüstü, tablet\n• Ekranlar tek seferde tam açılır"
+    "ar": "• بعد التحديث يعود البرنامج للفتح تلقائياً — مساعد مستقل ينتظر انتهاء التثبيت ثم يفتح Simplix\n• إصلاحات في ملاءمة الشاشات",
+    "en": "• After an update the program reopens by itself\n• Screen-fit fixes",
+    "tr": "• Güncellemeden sonra program kendiliğinden yeniden açılır\n• Ekran uyumu düzeltmeleri"
   }
 }
