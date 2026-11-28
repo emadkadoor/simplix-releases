@@ -1,11 +1,11 @@
 {
-  "version": "2026.1.27",
+  "version": "2026.1.28",
   "mandatory": false,
-  "url": "https://github.com/emadkadoor/simplix-releases/releases/download/v2026.1.27/SimplixERP-Setup-2026.1.27.exe",
-  "sha256": "596fd3ffb06d518adf316de2b9abc143284fb8d18d87cc315d7a5dd37e639456",
+  "url": "https://github.com/emadkadoor/simplix-releases/releases/download/v2026.1.28/SimplixERP-Setup-2026.1.28.exe",
+  "sha256": "b6d0096cee4e24d07dde51b4ecc5daa5bf560e13ac997fec183dc158f40936b2",
   "notes": {
-    "ar": "• الاستيراد من أودو يشمل الآن الأصول الثابتة (يكمل من حيث توقف أودو) والموارد البشرية (الموظفون والرواتب والحركات)\n• إصلاحات في متابعة التحصيل",
-    "en": "• Odoo import now includes fixed assets and HR\n• Follow-up fixes",
-    "tr": "• Odoo içe aktarımı artık sabit varlıkları ve İK'yı içeriyor\n• Takip düzeltmeleri"
+    "ar": "• تطبيق جديد «✅ الموافقات»: طلبات السلف والعهد والإجازات والشراء والصرف وغيرها، كل نوع بنموذجه وسلسلة موافقته حسب المبلغ، ومعلومات القرار داخل الطلب (السلف القائمة، العهد، موازنة المشروع)\n• التنفيذ بيد صاحب الصلاحية: قيد مسودة للمحاسب، أمر شراء للمشتريات، صرف من الصندوق لأمين الصندوق\n• أدوار جديدة: موظف (تقديم الطلبات)، مدير مشروع",
+    "en": "• New app «Approvals»: request types with their own forms and amount-based ladders, decision insights, execution by whoever has the right",
+    "tr": "• Yeni uygulama «Onaylar»: kendi formları ve tutara göre onay zincirleri olan talep türleri"
   }
 }
