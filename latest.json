@@ -1,11 +1,11 @@
 {
-  "version": "2026.1.30",
+  "version": "2026.1.31",
   "mandatory": false,
-  "url": "https://github.com/emadkadoor/simplix-releases/releases/download/v2026.1.30/SimplixERP-Setup-2026.1.30.exe",
-  "sha256": "9cb8d927b9cb1b15eb8723ac516a9a35cf98008ee077274a93ff5f868a51bb94",
+  "url": "https://github.com/emadkadoor/simplix-releases/releases/download/v2026.1.31/SimplixERP-Setup-2026.1.31.exe",
+  "sha256": "052417f1f4df4b7f9f458350cfa2401c868c469637af8378b919fc6b23c12e2e",
   "notes": {
-    "ar": "• الترجمة صارت تلقائية: كل نص جديد يُضاف بالإنكليزية والتركية فوراً، وتصحيح أسماء التطبيقات (Cash Box، Sales، Approvals)\n• الاستيراد من أي برنامج (Excel/CSV) مع تعرّف تلقائي على الأعمدة، إضافة للاستيراد من أودو\n• ترتيب أيقونات التطبيقات بالسحب والإفلات لكل مستخدم\n• لوحة المحاسبة بطابع كريستالي تفاعلي وأحجام أنعم\n• نافذة العميل / المورد أصغر وأرتب\n• زر تسجيل الخروج في زاوية الشاشة بكل التطبيقات، وزر «الرجوع للتطبيقات» بتصميم جديد\n• بطاقة تأكيد قبل إيقاف أي تطبيق (للمدير فقط)\n• ترتيب أزرار رأس الموارد البشرية",
-    "en": "• Automatic translation: every new phrase gets English and Turkish at once; app names fixed (Cash Box, Sales, Approvals)\n• Import from any program (Excel/CSV) with automatic column matching, plus import from Odoo\n• Drag and drop to arrange the app icons for each user\n• Crystal, interactive accounting dashboard with lighter sizes\n• Smaller, better-ordered customer / supplier dialog\n• Sign-out pinned to the screen corner in every app; new «Back to apps» button\n• Confirmation card before turning an app off (administrators only)\n• HR header buttons arranged like the other apps",
-    "tr": "• Otomatik çeviri: her yeni ifade anında İngilizce ve Türkçe alır; uygulama adları düzeltildi\n• Herhangi bir programdan içe aktarma (Excel/CSV) otomatik sütun eşleştirme ile, ayrıca Odoo'dan\n• Uygulama simgelerini her kullanıcı için sürükleyip bırakarak düzenleme\n• Kristal, etkileşimli muhasebe paneli\n• Daha küçük ve düzenli müşteri / tedarikçi penceresi\n• Çıkış düğmesi her uygulamada ekran köşesinde; yeni «Uygulamalara dön» düğmesi\n• Bir uygulamayı kapatmadan önce onay kartı (yalnızca yöneticiler)\n• İK başlık düğmeleri diğer uygulamalar gibi düzenlendi"
+    "ar": "• الاستيراد من أودو أسرع بكثير: طلب واحد لكل 500 قيد بدل طلب لكل قيد\n• رسالة رفض القيد في الاستيراد تذكر البند والحساب بالضبط",
+    "en": "• Much faster Odoo import: one request per 500 entries instead of one per entry\n• A rejected entry during import names the exact line and account",
+    "tr": "• Odoo'dan içe aktarma çok daha hızlı: her kayıt için değil, 500 kayıtta bir istek\n• İçe aktarmada reddedilen kayıt satırı ve hesabı tam olarak belirtir"
   }
 }
