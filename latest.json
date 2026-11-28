@@ -1,11 +1,11 @@
 {
-  "version": "2026.1.36",
+  "version": "2026.1.38",
   "mandatory": false,
-  "url": "https://github.com/emadkadoor/simplix-releases/releases/download/v2026.1.36/SimplixERP-Setup-2026.1.36.exe",
-  "sha256": "fbbdf2a30064ef4f10f4c76a8a848fc095c9956e1cf39ee7a43b7ab6b2c1dfad",
+  "url": "https://github.com/emadkadoor/simplix-releases/releases/download/v2026.1.38/SimplixERP-Setup-2026.1.38.exe",
+  "sha256": "284bac80a59cade0754045e29f572d2773dda1dc5cd3d1a4bb03619b8dc41433",
   "notes": {
-    "ar": "• الاستيراد من أودو يعمل داخل البرنامج: مغادرة الصفحة لا توقفه، وعند العودة يظهر تقدمه\n• إصلاح استيراد أوامر الشراء\n• أزرار Excel تعمل في البرنامج: يُحفظ الملف في التنزيلات ← Simplix ويُفتح\n• كشف الحساب سريع مع آلاف القيود\n• دائرة نسبة لكل رفع ملف\n• نسخة احتياطية ثانية خارج الجهاز (فلاشة / OneDrive / Google Drive)\n• الترخيص (🔑 للمدير)\n• «❓ مساعدة» وجولة تعريفية لكل تطبيق",
-    "en": "• The Odoo import runs inside the program: leaving the page does not stop it\n• Purchase-order import fixed\n• Excel buttons work in the program: saved in Downloads\\Simplix and opened\n• Statements fast with thousands of entries\n• Percentage ring for every upload\n• Second backup copy outside the computer\n• Licence (🔑 administrator)\n• «❓ Help» and a tour for every app",
-    "tr": "• Odoo içe aktarma program içinde çalışır: sayfadan ayrılmak durdurmaz\n• Satın alma siparişi aktarımı düzeltildi\n• Excel düğmeleri çalışır: İndirilenler\\Simplix'e kaydedilip açılır\n• Ekstreler binlerce kayıtla hızlı\n• Her yüklemede yüzde halkası\n• Bilgisayar dışında ikinci yedek\n• Lisans (🔑 yönetici)\n• «❓ Yardım» ve her uygulama için tur"
+    "ar": "• دائرة نسبة ناعمة للاستيراد من أودو\n• «🖨 محرر النماذج»: ترويسة وتذييل بالصورة، سطر تذييل، تواقيع بالمسمى الوظيفي، رقم الإصدار — فوق هوية مطبوعات ثابتة\n• خانة بحث واحدة في كشف الحساب: حساب أو عميل أو مورد أو موظف أو مشروع\n• كشف الحساب: المدين بالأحمر والدائن بالأخضر\n• طباعة نظيفة دون أي أثر من الشاشة\n• حفظ بيانات الاتصال بأودو (عدا كلمة المرور) مع زر مسح",
+    "en": "• A soft percentage ring for the Odoo import\n• «🖨 Forms editor»: letterhead and footer images, footer line, signatures by title, version — over one printed identity\n• One search box in the statement: account, customer, supplier, employee or project\n• Statement: debit in red, credit in green\n• Clean printing\n• Odoo connection details remembered (never the password)",
+    "tr": "• Odoo içe aktarma için yüzde halkası\n• «🖨 Form düzenleyici»: antet ve alt bilgi görselleri, imzalar, sürüm\n• Ekstrede tek arama kutusu\n• Ekstre: borç kırmızı, alacak yeşil\n• Temiz yazdırma\n• Odoo bağlantı bilgileri hatırlanır (parola hariç)"
   }
 }
