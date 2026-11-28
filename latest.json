@@ -1,11 +1,11 @@
 {
-  "version": "2026.1.26",
+  "version": "2026.1.27",
   "mandatory": false,
-  "url": "https://github.com/emadkadoor/simplix-releases/releases/download/v2026.1.26/SimplixERP-Setup-2026.1.26.exe",
-  "sha256": "5da2d26b69158942702cf656cd7d20f35184e01e4273ff77f4b1373d1f54260a",
+  "url": "https://github.com/emadkadoor/simplix-releases/releases/download/v2026.1.27/SimplixERP-Setup-2026.1.27.exe",
+  "sha256": "596fd3ffb06d518adf316de2b9abc143284fb8d18d87cc315d7a5dd37e639456",
   "notes": {
-    "ar": "• إصلاح التحديث: المثبّت كان يُغلق نفسه فلا يكتمل التثبيت — الآن يكتمل ويعود البرنامج للفتح\n• تطبيق جديد «🚗 الأصول الثابتة»: سجل الأصول (سيارات، معدات، أجهزة، أثاث، مبانٍ، برامج…)، فئات من دليل الحسابات، إهلاك شهري بقيد واحد، بيع واستبعاد بالربح أو الخسارة، تنبيه الاستمارة والتأمين\n• الموازنات: المخطط مقابل الفعلي لكل حساب أو مشروع، وموازنة «ملزمة» تمنع التجاوز\n• متابعة التحصيل: أعمار الديون، سجل المتابعات، خطابات تذكير وإنذار\n• القيود الدورية والمؤجلة (إيجار، تأمين مدفوع مقدماً…) تُجهَّز مسودات\n• المطابقة الثلاثية: فاتورة المورد لا تتجاوز المستلم ولا سعر أمر الشراء",
-    "en": "• Update fix: the installer no longer closes itself\n• New app «Fixed Assets»: register, categories, monthly depreciation, sale/disposal, registration & insurance alerts\n• Budgets (binding or monitoring)\n• Collections follow-up with reminder letters\n• Recurring and deferred entries\n• Three-way match on supplier bills",
-    "tr": "• Güncelleme düzeltmesi: yükleyici artık kendini kapatmıyor\n• Yeni uygulama «Sabit Varlıklar»\n• Bütçeler\n• Tahsilat takibi ve hatırlatma mektupları\n• Tekrarlayan ve ertelenmiş kayıtlar\n• Tedarikçi faturalarında üçlü eşleştirme"
+    "ar": "• الاستيراد من أودو يشمل الآن الأصول الثابتة (يكمل من حيث توقف أودو) والموارد البشرية (الموظفون والرواتب والحركات)\n• إصلاحات في متابعة التحصيل",
+    "en": "• Odoo import now includes fixed assets and HR\n• Follow-up fixes",
+    "tr": "• Odoo içe aktarımı artık sabit varlıkları ve İK'yı içeriyor\n• Takip düzeltmeleri"
   }
 }
