@@ -1,11 +1,11 @@
 {
-  "version": "2026.1.18",
+  "version": "2026.1.20",
   "mandatory": false,
-  "url": "https://github.com/emadkadoor/simplix-releases/releases/download/v2026.1.18/SimplixERP-Setup-2026.1.18.exe",
-  "sha256": "ad40bb9e404c10ed35aa84dcc54be3819d630a532eef903f812b2786eab927a1",
+  "url": "https://github.com/emadkadoor/simplix-releases/releases/download/v2026.1.20/SimplixERP-Setup-2026.1.20.exe",
+  "sha256": "95552a5147dae0d409ffb927cf03176439b34023678aab0cee2965564a2b2042",
   "notes": {
-    "ar": "المستودعات بلا ازدواجية: الاستلام والصرف (من الأوامر ويدوياً) والتحويل كلها في تبويب «🔄 الاستلام والصرف والتحويل»، وأرصدة المخزون للعرض والجرد والتسوية فقط",
-    "en": "Warehouses without duplication: receipts and issues (from orders and manual) and transfers are all in «Receipts, issues and transfers»; stock balances are for viewing, counting and adjusting only",
-    "tr": "Tekrarsız depolar: girişler ve çıkışlar (siparişlerden ve manuel) ve transferler tek sekmede; stok bakiyeleri yalnızca görüntüleme, sayım ve düzeltme için"
+    "ar": "بلا أزرار مكررة: زر واحد «مورد جديد» / «عميل جديد»، والرئيسية بلا اختصارات تكرر التبويبات • زر «رجوع» عصري بسهم في دائرة • «استلام مخزني» و«صرف مخزني»",
+    "en": "No duplicate buttons: one “New supplier” / “New customer” button, and no home shortcuts repeating the tabs • A modern “Back” button • “Stock receipt” and “Stock issue”",
+    "tr": "Tekrarlanan düğme yok: tek “Yeni tedarikçi” / “Yeni müşteri” düğmesi, sekmeleri tekrarlayan kısayollar kaldırıldı • Modern “Geri” düğmesi • “Stok girişi” ve “Stok çıkışı”"
   }
 }
