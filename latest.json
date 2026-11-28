@@ -1,11 +1,11 @@
 {
-  "version": "2026.1.32",
+  "version": "2026.1.33",
   "mandatory": false,
-  "url": "https://github.com/emadkadoor/simplix-releases/releases/download/v2026.1.32/SimplixERP-Setup-2026.1.32.exe",
-  "sha256": "cf00a96404e238102f1eac535a8dfdd2eeb9492bf7f134e127ea5db2cdd6e9c7",
+  "url": "https://github.com/emadkadoor/simplix-releases/releases/download/v2026.1.33/SimplixERP-Setup-2026.1.33.exe",
+  "sha256": "332e1c797243270acb3f7611f3f107b6c66b1c4be96c2689e8a4aafcebde68a9",
   "notes": {
-    "ar": "• استيراد كل قيود أودو كما هي دون ضياع أي شيء من السجل: ما ينقص القيد (جهة، مشروع، حساب موقوف) يصبح ملاحظة للمراجعة بدل الرفض\n• شاشة «ملاحظات الاستيراد» مع زر Excel\n• توزيع البنود على المشاريع يُقرَّب لهللة كاملة فيبقى القيد موزوناً\n• قيود أودو التي كل بنودها بصفر تُتجاوز بهدوء\n• اعتماد «دليل الحسابات» في كل مكان",
-    "en": "• Every Odoo entry is imported as it is, nothing of the history lost: what an entry lacks (contact, project, stopped account) becomes a note to review instead of a rejection\n• «Import notes» screen with Excel\n• Project splits rounded to the halala so entries stay balanced\n• Odoo entries whose lines are all zero are skipped quietly\n• «Chart of accounts» naming everywhere",
-    "tr": "• Tüm Odoo kayıtları olduğu gibi aktarılır, geçmişten hiçbir şey kaybolmaz: eksikler reddetmek yerine incelenecek not olur\n• Excel ile «İçe aktarma notları» ekranı\n• Proje dağılımları kuruşa yuvarlanır, kayıtlar dengeli kalır\n• Tüm satırları sıfır olan Odoo kayıtları atlanır\n• Her yerde «Hesap planı» adı"
+    "ar": "• أزرار Excel موحّدة: ⬆️ للاستخراج و⬇️ للاستيراد في كل البرنامج\n• زر Excel في «ملاحظات الاستيراد» يعمل، والملاحظة المكررة في القيد تظهر مرة واحدة مع عدد البنود",
+    "en": "• Excel buttons unified: ⬆️ export and ⬇️ import across the program\n• Excel in «Import notes» works; a repeated note in an entry shows once with its line count",
+    "tr": "• Excel düğmeleri birleştirildi: dışa aktarma ⬆️, içe aktarma ⬇️\n• «İçe aktarma notları»nda Excel çalışıyor; tekrarlanan not satır sayısıyla bir kez görünür"
   }
 }
