@@ -1,11 +1,11 @@
 {
-  "version": "2026.1.33",
+  "version": "2026.1.35",
   "mandatory": false,
-  "url": "https://github.com/emadkadoor/simplix-releases/releases/download/v2026.1.33/SimplixERP-Setup-2026.1.33.exe",
-  "sha256": "332e1c797243270acb3f7611f3f107b6c66b1c4be96c2689e8a4aafcebde68a9",
+  "url": "https://github.com/emadkadoor/simplix-releases/releases/download/v2026.1.35/SimplixERP-Setup-2026.1.35.exe",
+  "sha256": "4fc3f2fce3fd3ce699ccdb978c32361ea6eac0d090f6449d19dd57da06a4e477",
   "notes": {
-    "ar": "• أزرار Excel موحّدة: ⬆️ للاستخراج و⬇️ للاستيراد في كل البرنامج\n• زر Excel في «ملاحظات الاستيراد» يعمل، والملاحظة المكررة في القيد تظهر مرة واحدة مع عدد البنود",
-    "en": "• Excel buttons unified: ⬆️ export and ⬇️ import across the program\n• Excel in «Import notes» works; a repeated note in an entry shows once with its line count",
-    "tr": "• Excel düğmeleri birleştirildi: dışa aktarma ⬆️, içe aktarma ⬇️\n• «İçe aktarma notları»nda Excel çalışıyor; tekrarlanan not satır sayısıyla bir kez görünür"
+    "ar": "• زر «استيراد كل شيء دفعة واحدة» من أودو: الدليل والجهات والمنتجات والمشاريع واليوميات والضرائب والأصول والموظفون والقيود، وأوامر الشراء والبيع، والفواتير والإشعارات، وسندات القبض والصرف وربطها بالفواتير — ثم مطابقة رصيد كل حساب مع أودو\n• كشف حساب العميل والمورد يشمل كل حسابات العملاء أو الموردين أياً كان رمزها\n• زر «👁 عرض» قبل Excel وPDF، وبداخله الطباعة وPDF؛ زر الطباعة الخارجي يطبع مباشرة\n• دليل الحسابات: الرئيسي مميز عن الفرعي بلون كل قسم\n• ميزان المراجعة ونافذة العرض بشكل أفخم وأنعم",
+    "en": "• «Import everything at once» from Odoo, then every account's balance checked against Odoo\n• Customer and supplier statements cover every receivable / payable account\n• «👁 View» before Excel and PDF, with print and PDF inside; the outer print button prints directly\n• Chart of accounts: main vs sub in each section's colour\n• Trial balance and report view restyled",
+    "tr": "• Odoo'dan «Her şeyi tek seferde içe aktar», ardından bakiye kontrolü\n• Müşteri ve tedarikçi ekstreleri tüm alacak / borç hesaplarını kapsar\n• Excel ve PDF'den önce «👁 Görüntüle»; dış yazdır düğmesi doğrudan yazdırır\n• Hesap planı: ana ve alt hesaplar bölüm renginde\n• Mizan ve rapor görünümü yenilendi"
   }
 }
