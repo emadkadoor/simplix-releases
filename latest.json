@@ -1,11 +1,11 @@
 {
-  "version": "2026.1.17",
+  "version": "2026.1.18",
   "mandatory": false,
-  "url": "https://github.com/emadkadoor/simplix-releases/releases/download/v2026.1.17/SimplixERP-Setup-2026.1.17.exe",
-  "sha256": "ace09139941e01cc210192bab20c5653d5474d7dc371b026f5075d7201aa04c7",
+  "url": "https://github.com/emadkadoor/simplix-releases/releases/download/v2026.1.18/SimplixERP-Setup-2026.1.18.exe",
+  "sha256": "ad40bb9e404c10ed35aa84dcc54be3819d630a532eef903f812b2786eab927a1",
   "notes": {
-    "ar": "المنتجات: وحدة شراء غير وحدة البيع مع التحويل (كرتونة = 12 حبة) • أسعار الموردين على المنتج ويقترحها أمر الشراء تلقائياً • استيراد المنتجات من Excel بقالب وفحص كامل • صورة المنتج • المنتج يجلب معه الوحدة والسعر والضريبة والمستودع • ترويسة أعمدة في قائمة الأوامر • رسالة إغلاق عصرية • التحديثات القادمة بصمت تام ويعود البرنامج مفتوحاً وحده",
-    "en": "Products: a purchase unit other than the sales unit, with conversion (carton = 12 pieces) • Supplier prices on the product, proposed by the purchase order • Import products from Excel with a template and full checks • Product picture • Choosing a product brings its unit, price, tax and warehouse • Column headers on the orders list • A modern close message • Next updates install silently and reopen the program by themselves",
-    "tr": "Ürünler: dönüşümlü, satıştan farklı satın alma birimi (koli = 12 adet) • Ürün üzerinde tedarikçi fiyatları, satın alma siparişi otomatik önerir • Şablon ve tam kontrolle Excel’den ürün aktarımı • Ürün resmi • Ürün seçilince birimi, fiyatı, vergisi ve deposu gelir • Sipariş listesinde sütun başlıkları • Modern kapatma mesajı • Sonraki güncellemeler sessizce kurulur ve program kendiliğinden yeniden açılır"
+    "ar": "المستودعات بلا ازدواجية: الاستلام والصرف (من الأوامر ويدوياً) والتحويل كلها في تبويب «🔄 الاستلام والصرف والتحويل»، وأرصدة المخزون للعرض والجرد والتسوية فقط",
+    "en": "Warehouses without duplication: receipts and issues (from orders and manual) and transfers are all in «Receipts, issues and transfers»; stock balances are for viewing, counting and adjusting only",
+    "tr": "Tekrarsız depolar: girişler ve çıkışlar (siparişlerden ve manuel) ve transferler tek sekmede; stok bakiyeleri yalnızca görüntüleme, sayım ve düzeltme için"
   }
 }
