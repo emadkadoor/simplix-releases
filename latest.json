@@ -1,11 +1,11 @@
 {
-  "version": "2026.1.22",
+  "version": "2026.1.23",
   "mandatory": false,
-  "url": "https://github.com/emadkadoor/simplix-releases/releases/download/v2026.1.22/SimplixERP-Setup-2026.1.22.exe",
-  "sha256": "9c33340ce542155e9bec474670d0ba22b04b0de51bd713cdfacec53e04eb88c1",
+  "url": "https://github.com/emadkadoor/simplix-releases/releases/download/v2026.1.23/SimplixERP-Setup-2026.1.23.exe",
+  "sha256": "e89b8b31d5ec525c7ab452a3cb6c9c5fc8ee7b1fc90c50394b2917c0a466b9b3",
   "notes": {
-    "ar": "المثبّت يغلق Simplix بنفسه قبل التثبيت — لا رسالة «لم يتمكن الإعداد من إغلاق التطبيقات» بعد اليوم، سواء من زر التحديث أو من الملف يدوياً",
-    "en": "The installer closes Simplix by itself before installing — no more “Setup was unable to close all applications”, from the update button or the file",
-    "tr": "Kurulum programı Simplix’i kurmadan önce kendisi kapatır — artık “Kurulum tüm uygulamaları kapatamadı” mesajı yok"
+    "ar": "• تبديل الشركات في الموارد البشرية مثل أودو: زر الشركة في الرأس، وكل شركة بموظفيها وقيودها\n• نسبة الملكية الخاضعة لضريبة الدخل بجانب نسبة الزكاة (مجموعهما 100%) للشركات المختلطة\n• اسم «المملكة العربية السعودية» الرسمي في كل مكان، وحقل الدولة يظهر كاملاً\n• زر تسجيل الخروج بتصميم أنظف وأيقونة واضحة على كل الأجهزة\n• بطاقات وجداول القوائم المالية أنعم وأوضح",
+    "en": "• Company switcher in HR like Odoo\n• Income-tax ownership share next to the zakat share (mixed ownership)\n• Official name «Kingdom of Saudi Arabia» everywhere\n• Cleaner sign-out button\n• Smoother financial statement cards and tables",
+    "tr": "• İK'da Odoo gibi şirket değiştirici\n• Zekât payının yanında gelir vergisine tabi pay (karma ortaklık)\n• Her yerde resmi ad «Suudi Arabistan Krallığı»\n• Daha temiz oturum kapatma düğmesi\n• Daha yumuşak mali tablo kartları ve tabloları"
   }
 }
