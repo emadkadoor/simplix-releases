@@ -1,11 +1,11 @@
 {
-  "version": "2026.1.28",
+  "version": "2026.1.30",
   "mandatory": false,
-  "url": "https://github.com/emadkadoor/simplix-releases/releases/download/v2026.1.28/SimplixERP-Setup-2026.1.28.exe",
-  "sha256": "b6d0096cee4e24d07dde51b4ecc5daa5bf560e13ac997fec183dc158f40936b2",
+  "url": "https://github.com/emadkadoor/simplix-releases/releases/download/v2026.1.30/SimplixERP-Setup-2026.1.30.exe",
+  "sha256": "9cb8d927b9cb1b15eb8723ac516a9a35cf98008ee077274a93ff5f868a51bb94",
   "notes": {
-    "ar": "• تطبيق جديد «✅ الموافقات»: طلبات السلف والعهد والإجازات والشراء والصرف وغيرها، كل نوع بنموذجه وسلسلة موافقته حسب المبلغ، ومعلومات القرار داخل الطلب (السلف القائمة، العهد، موازنة المشروع)\n• التنفيذ بيد صاحب الصلاحية: قيد مسودة للمحاسب، أمر شراء للمشتريات، صرف من الصندوق لأمين الصندوق\n• أدوار جديدة: موظف (تقديم الطلبات)، مدير مشروع",
-    "en": "• New app «Approvals»: request types with their own forms and amount-based ladders, decision insights, execution by whoever has the right",
-    "tr": "• Yeni uygulama «Onaylar»: kendi formları ve tutara göre onay zincirleri olan talep türleri"
+    "ar": "• الترجمة صارت تلقائية: كل نص جديد يُضاف بالإنكليزية والتركية فوراً، وتصحيح أسماء التطبيقات (Cash Box، Sales، Approvals)\n• الاستيراد من أي برنامج (Excel/CSV) مع تعرّف تلقائي على الأعمدة، إضافة للاستيراد من أودو\n• ترتيب أيقونات التطبيقات بالسحب والإفلات لكل مستخدم\n• لوحة المحاسبة بطابع كريستالي تفاعلي وأحجام أنعم\n• نافذة العميل / المورد أصغر وأرتب\n• زر تسجيل الخروج في زاوية الشاشة بكل التطبيقات، وزر «الرجوع للتطبيقات» بتصميم جديد\n• بطاقة تأكيد قبل إيقاف أي تطبيق (للمدير فقط)\n• ترتيب أزرار رأس الموارد البشرية",
+    "en": "• Automatic translation: every new phrase gets English and Turkish at once; app names fixed (Cash Box, Sales, Approvals)\n• Import from any program (Excel/CSV) with automatic column matching, plus import from Odoo\n• Drag and drop to arrange the app icons for each user\n• Crystal, interactive accounting dashboard with lighter sizes\n• Smaller, better-ordered customer / supplier dialog\n• Sign-out pinned to the screen corner in every app; new «Back to apps» button\n• Confirmation card before turning an app off (administrators only)\n• HR header buttons arranged like the other apps",
+    "tr": "• Otomatik çeviri: her yeni ifade anında İngilizce ve Türkçe alır; uygulama adları düzeltildi\n• Herhangi bir programdan içe aktarma (Excel/CSV) otomatik sütun eşleştirme ile, ayrıca Odoo'dan\n• Uygulama simgelerini her kullanıcı için sürükleyip bırakarak düzenleme\n• Kristal, etkileşimli muhasebe paneli\n• Daha küçük ve düzenli müşteri / tedarikçi penceresi\n• Çıkış düğmesi her uygulamada ekran köşesinde; yeni «Uygulamalara dön» düğmesi\n• Bir uygulamayı kapatmadan önce onay kartı (yalnızca yöneticiler)\n• İK başlık düğmeleri diğer uygulamalar gibi düzenlendi"
   }
 }
