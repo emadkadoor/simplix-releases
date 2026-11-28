@@ -1,11 +1,11 @@
 {
-  "version": "2026.1.23",
+  "version": "2026.1.24",
   "mandatory": false,
-  "url": "https://github.com/emadkadoor/simplix-releases/releases/download/v2026.1.23/SimplixERP-Setup-2026.1.23.exe",
-  "sha256": "e89b8b31d5ec525c7ab452a3cb6c9c5fc8ee7b1fc90c50394b2917c0a466b9b3",
+  "url": "https://github.com/emadkadoor/simplix-releases/releases/download/v2026.1.24/SimplixERP-Setup-2026.1.24.exe",
+  "sha256": "3f6aee05e2c1fe28350118b7e036ac4b9d660215f8975d3512e3d03889a2ca5b",
   "notes": {
-    "ar": "• تبديل الشركات في الموارد البشرية مثل أودو: زر الشركة في الرأس، وكل شركة بموظفيها وقيودها\n• نسبة الملكية الخاضعة لضريبة الدخل بجانب نسبة الزكاة (مجموعهما 100%) للشركات المختلطة\n• اسم «المملكة العربية السعودية» الرسمي في كل مكان، وحقل الدولة يظهر كاملاً\n• زر تسجيل الخروج بتصميم أنظف وأيقونة واضحة على كل الأجهزة\n• بطاقات وجداول القوائم المالية أنعم وأوضح",
-    "en": "• Company switcher in HR like Odoo\n• Income-tax ownership share next to the zakat share (mixed ownership)\n• Official name «Kingdom of Saudi Arabia» everywhere\n• Cleaner sign-out button\n• Smoother financial statement cards and tables",
-    "tr": "• İK'da Odoo gibi şirket değiştirici\n• Zekât payının yanında gelir vergisine tabi pay (karma ortaklık)\n• Her yerde resmi ad «Suudi Arabistan Krallığı»\n• Daha temiz oturum kapatma düğmesi\n• Daha yumuşak mali tablo kartları ve tabloları"
+    "ar": "• تطبيق جديد «💵 الصندوق»: صندوق نظامي مربوط بالمحاسبة — سند قبض، سند صرف، تغذية من البنك، إيداع في البنك، عهد مع التسوية والرد، جرد الصندوق بقيد العجز أو الزيادة، كشف حساب الصندوق من دفتر الأستاذ، تحليل المصروفات، وصلاحية «أمين الصندوق»\n• البرنامج يتلاءم مع كل الشاشات: كمبيوتر، لابتوب، تابلت\n• الشاشات تفتح دفعة واحدة كاملة بدل ظهور العناصر تباعاً",
+    "en": "• New app «Cash Box»: an official cash box linked to accounting — receipts, payments, bank funding and deposits, custody with settlement and return, cash count, box statement from the ledger, analysis, cashier permission\n• Fits every screen: desktop, laptop, tablet\n• Screens open fully at once",
+    "tr": "• Yeni uygulama «Kasa»: muhasebeye bağlı resmi kasa — tahsilat, ödeme, bankadan besleme ve bankaya yatırma, avans mahsup ve iadesi, kasa sayımı, defterden kasa ekstresi, analiz, kasiyer yetkisi\n• Her ekrana uyum: masaüstü, dizüstü, tablet\n• Ekranlar tek seferde tam açılır"
   }
 }
