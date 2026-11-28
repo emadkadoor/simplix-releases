@@ -1,11 +1,11 @@
 {
-  "version": "2026.1.21",
+  "version": "2026.1.22",
   "mandatory": false,
-  "url": "https://github.com/emadkadoor/simplix-releases/releases/download/v2026.1.21/SimplixERP-Setup-2026.1.21.exe",
-  "sha256": "d0aeb341c80a7669f9c51867b26ebf7dffeb4083032188bfcc880711aa4d458b",
+  "url": "https://github.com/emadkadoor/simplix-releases/releases/download/v2026.1.22/SimplixERP-Setup-2026.1.22.exe",
+  "sha256": "9c33340ce542155e9bec474670d0ba22b04b0de51bd713cdfacec53e04eb88c1",
   "notes": {
-    "ar": "بطاقة الإغلاق والخروج بتصميم «إنهاء الجلسة» العصري في كل التطبيقات • ✕ على شاشة الدخول يغلق فوراً • فاتورة المبيعات من أمر البيع، والفاتورة بدون أمر بصلاحية مستقلة وتنبيه • حذف نافذة الهجري المنبثقة • التحديث يظهر فور نشره",
-    "en": "Modern close / sign-out card in every app • ✕ on the sign-in screen closes at once • Sales invoices from the sales order; an invoice without an order needs its own right and a warning • Hijri pop-up removed • Updates appear as soon as they are published",
-    "tr": "Her uygulamada modern kapatma / çıkış kartı • Giriş ekranında ✕ hemen kapatır • Satış faturası satış siparişinden; siparişsiz fatura ayrı yetki ve uyarı ister • Hicri açılır pencere kaldırıldı • Güncellemeler yayınlanır yayınlanmaz görünür"
+    "ar": "المثبّت يغلق Simplix بنفسه قبل التثبيت — لا رسالة «لم يتمكن الإعداد من إغلاق التطبيقات» بعد اليوم، سواء من زر التحديث أو من الملف يدوياً",
+    "en": "The installer closes Simplix by itself before installing — no more “Setup was unable to close all applications”, from the update button or the file",
+    "tr": "Kurulum programı Simplix’i kurmadan önce kendisi kapatır — artık “Kurulum tüm uygulamaları kapatamadı” mesajı yok"
   }
 }
