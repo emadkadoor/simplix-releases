@@ -1,11 +1,11 @@
 {
-  "version": "2026.1.14",
+  "version": "2026.1.15",
   "mandatory": false,
-  "url": "https://github.com/emadkadoor/simplix-releases/releases/download/v2026.1.14/SimplixERP-Setup-2026.1.14.exe",
-  "sha256": "937d1b263bb4d0ada875e1fa17c1e12832c9b9e5001e94c7cd521882a9143dab",
+  "url": "https://github.com/emadkadoor/simplix-releases/releases/download/v2026.1.15/SimplixERP-Setup-2026.1.15.exe",
+  "sha256": "2a3785cea1c958e8991c0a1e8d4a798c9c114e5fc2ae7e6b6891ce7e2c276d37",
   "notes": {
-    "ar": "دور «مدير — عرض فقط» يطّلع ولا يعدّل · إخفاء أي تطبيق عن أي مستخدم · المساعد الذكي غير ظاهر لمن لا يملك صلاحيته · البرنامج جاهز للعمل سحابياً (من أي مكان) · تحسين العرض على الجوال",
-    "en": "View-only manager role · hide any app from any user · the assistant is invisible to users without its permission · cloud-ready · better phone layout",
-    "tr": "Yalnızca görüntüleme yöneticisi rolü · herhangi bir uygulamayı kullanıcıdan gizleme · bulut hazır · telefon düzeni"
+    "ar": "إقفال السنة المالية بقيد إقفال وإعادة فتح بسبب • إقرار ضريبة القيمة المضافة بخانات الهيئة مع تقديمه وقفل الفترة • حاسبة الزكاة وضريبة الدخل للشركات المختلطة مع قيد استحقاق مسودة • ربط الموارد البشرية بالمحاسبة: الرواتب والدفعات تصبح قيوداً في Simplix • تأكيد قبل إغلاق النافذة وقبل تسجيل الخروج في كل التطبيقات • «تكرار الصفحة» يفتح تبويباً داخل نفس النافذة وبنفس الدخول • استجابة أسرع: لا تعليق في الأزرار وقاعدة بيانات أسرع • عرض عنوان البرنامج للفتح من المتصفح",
+    "en": "Fiscal year closing with a closing entry and reopening with a reason • VAT return in the ZATCA boxes with filing and period lock • Zakat and income tax for mixed companies with a draft accrual • HR linked to accounting: payroll and payments become Simplix entries • Confirmation before closing the window and before signing out in every app • “Duplicate page” opens a tab inside the same window with the same sign-in • Faster response: no frozen buttons and a faster database • The program’s address shown for opening from a browser",
+    "tr": "Kapanış fişiyle mali yıl kapanışı ve gerekçeyle yeniden açma • ZATCA kutularıyla KDV beyannamesi, beyan ve dönem kilidi • Karma şirketler için zekât ve gelir vergisi, taslak tahakkuk fişiyle • İK muhasebeye bağlandı: bordro ve ödemeler Simplix fişi olur • Her uygulamada pencereyi kapatmadan ve çıkış yapmadan önce onay • “Sayfayı çoğalt” aynı pencerede, aynı oturumla sekme açar • Daha hızlı yanıt: donan düğme yok, daha hızlı veritabanı • Tarayıcıdan açmak için programın adresi gösteriliyor"
   }
 }
