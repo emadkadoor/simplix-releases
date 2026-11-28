@@ -1,0 +1,48 @@
+name: Publish release
+
+# Push a branch named "incoming" holding: SimplixERP-Setup-<ver>.exe, VERSION, notes.json
+# This workflow creates the GitHub release, points latest.json at it, then deletes "incoming".
+on:
+  push:
+    branches: [incoming]
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: incoming
+          path: incoming
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          path: main
+      - name: Create release and update latest.json
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -e
+          cd incoming
+          VER=$(tr -d ' \r\n' < VERSION)
+          EXE="SimplixERP-Setup-$VER.exe"
+          test -f "$EXE"
+          SHA=$(sha256sum "$EXE" | cut -d' ' -f1)
+          NOTES_AR=$(jq -r .ar notes.json)
+          gh release view "v$VER" -R "$GITHUB_REPOSITORY" >/dev/null 2>&1 \
+            && gh release upload "v$VER" "$EXE" --clobber -R "$GITHUB_REPOSITORY" \
+            || gh release create "v$VER" "$EXE" -R "$GITHUB_REPOSITORY" --title "Simplix ERP $VER" --notes "$NOTES_AR" --latest
+          URL="https://github.com/$GITHUB_REPOSITORY/releases/download/v$VER/$EXE"
+          jq -n --arg v "$VER" --arg u "$URL" --arg s "$SHA" --slurpfile n notes.json \
+            '{version:$v, mandatory:false, url:$u, sha256:$s, notes:$n[0]}' > ../main/latest.json
+          cd ../main
+          git config user.name "simplix-bot"
+          git config user.email "simplix-bot@users.noreply.github.com"
+          git add latest.json
+          git diff --cached --quiet || git commit -m "Release $VER"
+          git push origin main
+          git push origin --delete incoming
+          cat latest.json
