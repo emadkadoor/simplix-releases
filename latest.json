@@ -1,11 +1,11 @@
 {
-  "version": "2026.1.15",
+  "version": "2026.1.16",
   "mandatory": false,
-  "url": "https://github.com/emadkadoor/simplix-releases/releases/download/v2026.1.15/SimplixERP-Setup-2026.1.15.exe",
-  "sha256": "2a3785cea1c958e8991c0a1e8d4a798c9c114e5fc2ae7e6b6891ce7e2c276d37",
+  "url": "https://github.com/emadkadoor/simplix-releases/releases/download/v2026.1.16/SimplixERP-Setup-2026.1.16.exe",
+  "sha256": "8f672f4c5336dcec9f0f54b43cea5742c253b38394a23b3bd4db1c3805eb81e2",
   "notes": {
-    "ar": "إقفال السنة المالية بقيد إقفال وإعادة فتح بسبب • إقرار ضريبة القيمة المضافة بخانات الهيئة مع تقديمه وقفل الفترة • حاسبة الزكاة وضريبة الدخل للشركات المختلطة مع قيد استحقاق مسودة • ربط الموارد البشرية بالمحاسبة: الرواتب والدفعات تصبح قيوداً في Simplix • تأكيد قبل إغلاق النافذة وقبل تسجيل الخروج في كل التطبيقات • «تكرار الصفحة» يفتح تبويباً داخل نفس النافذة وبنفس الدخول • استجابة أسرع: لا تعليق في الأزرار وقاعدة بيانات أسرع • عرض عنوان البرنامج للفتح من المتصفح",
-    "en": "Fiscal year closing with a closing entry and reopening with a reason • VAT return in the ZATCA boxes with filing and period lock • Zakat and income tax for mixed companies with a draft accrual • HR linked to accounting: payroll and payments become Simplix entries • Confirmation before closing the window and before signing out in every app • “Duplicate page” opens a tab inside the same window with the same sign-in • Faster response: no frozen buttons and a faster database • The program’s address shown for opening from a browser",
-    "tr": "Kapanış fişiyle mali yıl kapanışı ve gerekçeyle yeniden açma • ZATCA kutularıyla KDV beyannamesi, beyan ve dönem kilidi • Karma şirketler için zekât ve gelir vergisi, taslak tahakkuk fişiyle • İK muhasebeye bağlandı: bordro ve ödemeler Simplix fişi olur • Her uygulamada pencereyi kapatmadan ve çıkış yapmadan önce onay • “Sayfayı çoğalt” aynı pencerede, aynı oturumla sekme açar • Daha hızlı yanıt: donan düğme yok, daha hızlı veritabanı • Tarayıcıdan açmak için programın adresi gösteriliyor"
+    "ar": "✨ المساعد داخل البرنامج: تسأله عن دفاترك بصلاحياتك فقط ولا يرحّل أبداً • 📎 أمر شراء من عرض سعر المورد (PDF أو صورة أو Excel) مع مطابقة المورد والمنتجات • 📥 الاستلام والصرف من المستودعات بيد أمين المستودع • قائمة طلبات الشراء والبيع الجديدة بعدادات وتصفية سريعة • وحدات القياس من قائمة بلا تكرار • «مورد جديد» يُظهر صفة المورد فقط • سطر بلا مبلغ يُذكر بالاسم ويُؤشَّر بالأحمر • الترجمة الإنجليزية والتركية كاملة • الشعار: سهولة دقة إتقان",
+    "en": "✨ In-app assistant: ask about your books with your own permissions only; it never posts • 📎 Purchase order from a supplier quotation (PDF, picture or Excel) with supplier and product matching • 📥 Receiving and issuing in the warehouses by the storekeeper • New purchase and sales lists with counters and quick filters • Units of measure from a list, no duplicates • “New supplier” shows the supplier role only • A line without an amount is named and marked red • Complete English and Turkish • Motto: Simplicity · Precision · Mastery",
+    "tr": "✨ Program içi asistan: yalnızca kendi yetkilerinizle defterlerinizi sorun; asla kaydetmez • 📎 Tedarikçi teklifinden satın alma siparişi (PDF, resim veya Excel), tedarikçi ve ürün eşleştirmeli • 📥 Giriş ve çıkış depolarda, depo sorumlusu tarafından • Sayaçlı ve hızlı filtreli yeni satın alma ve satış listeleri • Tekrarsız listeden ölçü birimleri • “Yeni tedarikçi” yalnızca tedarikçi rolünü gösterir • Tutarsız satır adıyla belirtilir ve kırmızı işaretlenir • Tam İngilizce ve Türkçe • Slogan: Kolaylık · Doğruluk · Ustalık"
   }
 }
