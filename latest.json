@@ -1,11 +1,11 @@
 {
-  "version": "2026.1.20",
+  "version": "2026.1.21",
   "mandatory": false,
-  "url": "https://github.com/emadkadoor/simplix-releases/releases/download/v2026.1.20/SimplixERP-Setup-2026.1.20.exe",
-  "sha256": "95552a5147dae0d409ffb927cf03176439b34023678aab0cee2965564a2b2042",
+  "url": "https://github.com/emadkadoor/simplix-releases/releases/download/v2026.1.21/SimplixERP-Setup-2026.1.21.exe",
+  "sha256": "d0aeb341c80a7669f9c51867b26ebf7dffeb4083032188bfcc880711aa4d458b",
   "notes": {
-    "ar": "بلا أزرار مكررة: زر واحد «مورد جديد» / «عميل جديد»، والرئيسية بلا اختصارات تكرر التبويبات • زر «رجوع» عصري بسهم في دائرة • «استلام مخزني» و«صرف مخزني»",
-    "en": "No duplicate buttons: one “New supplier” / “New customer” button, and no home shortcuts repeating the tabs • A modern “Back” button • “Stock receipt” and “Stock issue”",
-    "tr": "Tekrarlanan düğme yok: tek “Yeni tedarikçi” / “Yeni müşteri” düğmesi, sekmeleri tekrarlayan kısayollar kaldırıldı • Modern “Geri” düğmesi • “Stok girişi” ve “Stok çıkışı”"
+    "ar": "بطاقة الإغلاق والخروج بتصميم «إنهاء الجلسة» العصري في كل التطبيقات • ✕ على شاشة الدخول يغلق فوراً • فاتورة المبيعات من أمر البيع، والفاتورة بدون أمر بصلاحية مستقلة وتنبيه • حذف نافذة الهجري المنبثقة • التحديث يظهر فور نشره",
+    "en": "Modern close / sign-out card in every app • ✕ on the sign-in screen closes at once • Sales invoices from the sales order; an invoice without an order needs its own right and a warning • Hijri pop-up removed • Updates appear as soon as they are published",
+    "tr": "Her uygulamada modern kapatma / çıkış kartı • Giriş ekranında ✕ hemen kapatır • Satış faturası satış siparişinden; siparişsiz fatura ayrı yetki ve uyarı ister • Hicri açılır pencere kaldırıldı • Güncellemeler yayınlanır yayınlanmaz görünür"
   }
 }
